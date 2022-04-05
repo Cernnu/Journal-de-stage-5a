@@ -17,10 +17,13 @@ Cela enlève un certains stress.
  
 ### 04
 Planning de la semaine (fait chaque lundi matin)
-chaque membre se voit assigné un certain nobmre de jour sur le semaine sur différents projets.
+chaque membre se voit assigné un certain nombre de jour sur le semaine sur différents projets.
 j'ai été assigné à travailler sur le front-end d'un Projet en vue.js avec comme première tache de régler des soucis d'interface (comme borner des variables pour une application de planning)
 Le reste de la matiné j'ai installé le projet en local sur mon ordinateur.
 une fois l'installation finie, j'ai commencé les tâches qui m'ont  été attribués. J'ai eu le temps de rendre une première version dont j'ai pu avoir des retours.
 
 Ressentit personnel : 
 J'ai apprécié l'aide et l'écoute que j'ai pu avoir. La bonne entente au sein de l'équipe facilite mon intégration à celle-ci.
+
+### 05
+J'ai continué la tache qui m'a été donné la veille. Sa résolution a entrainé d'autre changements dans le code. J'ai donc pris du temps pour comprendre un peu mieu la structure de celui-ci et completer mes connaissance en vuejs.
