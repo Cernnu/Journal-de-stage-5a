@@ -27,3 +27,6 @@ J'ai apprécié l'aide et l'écoute que j'ai pu avoir. La bonne entente au sein 
 
 ### 05
 J'ai continué la tache qui m'a été donné la veille. Sa résolution a entrainé d'autre changements dans le code. J'ai donc pris du temps pour comprendre un peu mieu la structure de celui-ci et completer mes connaissance en vuejs.
+
+### 06 
+La tache fut fini, je vais commencer à travailler sur un autre projet (sur le logiciel alticash). Malheureusement une panne d'internet dans les locaux rend compliqué le démarage. J'ai donc passé l'après midi en télé travail pour commencer a lire le code et me documenter sur le projet.
