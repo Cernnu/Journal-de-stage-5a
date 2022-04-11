@@ -30,3 +30,12 @@ J'ai continué la tache qui m'a été donné la veille. Sa résolution a entrain
 
 ### 06 
 La tache fut fini, je vais commencer à travailler sur un autre projet (sur le logiciel alticash). Malheureusement une panne d'internet dans les locaux rend compliqué le démarage. J'ai donc passé l'après midi en télé travail pour commencer a lire le code et me documenter sur le projet.
+
+### 07
+Réunion du jeudi. L'équipe fait un point sur l'avancement qu'elle a par rapport au planning fait le lundi.
+Fin de la panne d'internet, je peux travailler dans les locaux. 
+Je commence l'installation du projet alticash. Cela prend du temps, l'équipe travaillant dessus n'étant pas dans les locaux, toute communication passe par l'ecrit via un mattermost. 
+
+### 08 
+suite de l'installation, l'équipe n'est pas disponible pour m'aider. Je compense par me renseigner sur le code que je vais devoir produire.
+
