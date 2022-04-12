@@ -18,7 +18,7 @@ Cela enlève un certains stress.
 ### 04
 Planning de la semaine (fait chaque lundi matin)
 chaque membre se voit assigné un certain nombre de jour sur le semaine sur différents projets.
-j'ai été assigné à travailler sur le front-end d'un Projet en vue.js avec comme première tache de régler des soucis d'interface (comme borner des variables pour une application de planning)
+j'ai été assigné à travailler sur le front-end d'un Projet en vue.js (Tra-C) avec comme première tache de régler des soucis d'interface (comme borner des variables pour une application de planning)
 Le reste de la matiné j'ai installé le projet en local sur mon ordinateur.
 une fois l'installation finie, j'ai commencé les tâches qui m'ont  été attribués. J'ai eu le temps de rendre une première version dont j'ai pu avoir des retours.
 
@@ -39,3 +39,8 @@ Je commence l'installation du projet alticash. Cela prend du temps, l'équipe tr
 ### 08 
 suite de l'installation, l'équipe n'est pas disponible pour m'aider. Je compense par me renseigner sur le code que je vais devoir produire.
 
+### 11
+reprise du premier projet (Tra-C). Je reprend la tache de rendre draguable un composant. Je réussi à le faire en m'inspirant d'une partie du code d'autres composant. Il reste maintenant à gérer les interractions une fois l'objet déplacé.
+
+### 12
+Continuation du code d'hier. L'autre dev bossant avec sur le projet est satisfait de ce que j'ai fait. Après un court échange avec lui sur la structure du code, je m'occupe de mettre en place les interractions qui découle du drag and drop fait la veille.
