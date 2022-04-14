@@ -44,3 +44,7 @@ reprise du premier projet (Tra-C). Je reprend la tache de rendre draguable un co
 
 ### 12
 Continuation du code d'hier. L'autre dev bossant avec sur le projet est satisfait de ce que j'ai fait. Après un court échange avec lui sur la structure du code, je m'occupe de mettre en place les interractions qui découle du drag and drop fait la veille.
+
+### 13
+Le drag and drop fonctionne entièrement, il reste cependant des bugs visuels  régler, ceux ci sont plus compliqué a résoudre que prévu.
+L'après-midi j'ai comencé a me renseigner pour un projet à part que ma demander le patron. Celui consiste a mettre en place une solution de reconnaissance visuel de ticket de caisse et facture, pour en tirer leurs informations. J'ai commencé à regarder les technologies déjà existante.
