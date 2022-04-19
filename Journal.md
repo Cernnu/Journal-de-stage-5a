@@ -48,3 +48,13 @@ Continuation du code d'hier. L'autre dev bossant avec sur le projet est satisfai
 ### 13
 Le drag and drop fonctionne entièrement, il reste cependant des bugs visuels  régler, ceux ci sont plus compliqué a résoudre que prévu.
 L'après-midi j'ai comencé a me renseigner pour un projet à part que ma demander le patron. Celui consiste a mettre en place une solution de reconnaissance visuel de ticket de caisse et facture, pour en tirer leurs informations. J'ai commencé à regarder les technologies déjà existante.
+
+### 14 
+Réunion du jeudi pour l'avancement.
+Je passe sur le projet alticash. Le code de celui-ci est dense et complexe a prendre en main, la partie front étant majoritairement écrite par un très bon connaisseur de vue.js, il y a bcp de syntaxe et technique que je ne connais pas. On m'as demandé plusieur tache sur ce projet, l'une d'elles étant d'incorporer la vidéo de tutoriel de l'application.  J'ai commencé par celle-ci.
+
+Ressentit personnel :
+Le midi, repas dans un petit restaurant avec l'équipe, payé par le patron. Ca fait plaisir de se sentir autant acceuilli. L'ambiance est vraiment bonne.
+
+### 15
+Je continue sur l'incorporation de la vidéo. J'y arrive vers la fin de la journée, cela m'auras demandé de parcourir une bonne partie du code existant pour créer un composant correspondant à la charte graphique (en réutilisant des composant et du code déjà écrit). Cela m'as demandé également de commencer à apprendre le tailwind css.
