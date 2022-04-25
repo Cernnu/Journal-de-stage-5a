@@ -58,3 +58,21 @@ Le midi, repas dans un petit restaurant avec l'équipe, payé par le patron. Ca 
 
 ### 15
 Je continue sur l'incorporation de la vidéo. J'y arrive vers la fin de la journée, cela m'auras demandé de parcourir une bonne partie du code existant pour créer un composant correspondant à la charte graphique (en réutilisant des composant et du code déjà écrit). Cela m'as demandé également de commencer à apprendre le tailwind css.
+
+### 19 
+Réunion du planning de la semaine, je continue sur Tra-C a finir de corriger les bug visuels de mon drag and drop. 
+
+### 20 
+J'ai enfin fini de résoudre ces bugs, la personne responsable du projet étant en congé, j'attends donc son retour pour voir si ce que j'ai fais correspond bien a ce qui est demandé. Début de travail sur un autre projet, Euraxi. L'installation a pris le reste de la journée. Celui-ci est entierement en symfony php, cela va me demander de nouveau de me former sur une nouvelle techno.
+
+### 21 
+Journée passé a regarder les technologies existante pour la reconnaissance de ticket de caisses et facture. 
+remarque personnelle : j'ai été tres fatigué et peu productif, contrairement aux 2 dernier jours
+
+### 22 
+Retour sur alticash, je m'occupe cette fois ci de faire un "tour guide" de l'appli lors de sa première utilisation.
+
+### 25
+Ce Matin grosse réunion mensuel. Le but de celle-ci est de parler des future clients/projets, de la dynamique de travail, des points a améliorer, des choses qui fonctionne ou pas etc.
+Réunion très instructive, entre autres pour voir les limites de la méthode agile.
+Sinon pour la répartitions du travail je vais passer 2,5 jours sur Euraxie et le reste sur alticash
