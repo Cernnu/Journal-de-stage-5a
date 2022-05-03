@@ -76,3 +76,21 @@ Retour sur alticash, je m'occupe cette fois ci de faire un "tour guide" de l'app
 Ce Matin grosse réunion mensuel. Le but de celle-ci est de parler des future clients/projets, de la dynamique de travail, des points a améliorer, des choses qui fonctionne ou pas etc.
 Réunion très instructive, entre autres pour voir les limites de la méthode agile.
 Sinon pour la répartitions du travail je vais passer 2,5 jours sur Euraxie et le reste sur alticash
+
+### 26 
+Travail sur Euraxi, peu d'avancement, j'ai passer la majorité de ma journée a comprendre symfony et la structure du projet
+
+### 27 
+Continuation sur Euraxi, j'ai commencé a coder, ma première tache étant de changer une relation many to one de 2 entités en many to many. J'ai eu bcp de problèmes, mon manque d'expérience joue la dessus. Celui qui me supervise sur ce projet ayant eu beaucoup de réunion aujourd'hui je n'ai pas pu avoir toute l'aide necessaire.
+
+### 28 
+Passage sur alticash. Je continue de faire le tour guide, j'ai un début de code fonctionnel, maintenant il va falloir que je m'occupe du CSS. 
+
+
+### 29 
+Rencontre avec un des membres du projet alticash ce matin, j'ai enfin des explications plus claire sur ce que je dois faire, et sur l'organisation du projet. Je passe l'après midi a me battre avec le CSS.
+
+
+## Remarque personnel sur le mois
+
+Je me sens bien intégré. J'apprécie l'ambiance bienveillante de travail, cela me permet de ne pas tomber dans du stress contre productif ou de la peur d'échouer.
