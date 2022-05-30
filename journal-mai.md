@@ -39,4 +39,37 @@ Télétravail. Je suis resté chez moi à cause d'un état des lieux à faire en
 ### Remarque personnel sur la semaine du 09/05
 étant en plein déménagement j'ai du chaque soir ranger et nettoyer mon ancien appartement, de ce fait j'ai été assez fatigué et peu productif.
 
+### 16
+Réunion classque du Lundi. On m'assigne encore sur Euraxie. Je m'occupe de la nouvelle tache qui m'as été attribué. Cela me fait voir de nouveaux aspect de symfony
+
+### 17
+Continuation sur Euraxie. Rien de particulier a signaler.
+
+### 18 
+Retour sur la mise en place d'un outil de reconnaissance de ticket de caisse, après avoir fait le tour des solutions open source, je regarde les solutions payante existante (comme google vision par exemple)
+
+### 19
+passage sur alticash. JE continue le tour guide, entre savoir quoi mettre et bien positionner les bulle d'information cela prend du temps.
+
+### 20 
+Télétravail le matin, je prend un train l'après midi pour aller au mariage de ma soeur.
+
+### Remarque personnel sur la semaine du 16/05
+les pics de chaleur on rendu le travail compliqué, la clim ne fut mise en place que le 18/05. 
+
+### 23
+Réunion du lundi, mais en petit commité, le patron étant en vacance et le chef de projet ayant le covid. 
+Je continue sur Euraxie. 
+
+#### 24
+Journée peu productif, me retrouver seul dans le bureau et la chaleur baisse un peu ma motivation.
+
+### 25
+Passage sur alticash. Je continue le tour guide. 
+
+### 27
+Télétravail, je suis le seul de la boite ne faisant pas le pont, je suis donc resté chez moi. J'ai travaillé sur la reconnaissance de ticket de caisse en mettant en place l'api de google vision pour la tester.
+
+### 30
+Arrivé d'un nouvel alternant, nous sommes maintenant 6 dans les bureaux. 
 
