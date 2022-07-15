@@ -20,3 +20,5 @@ Je commence a me renseigner et coder en java un moyen de parser et d'utiliser le
 Je me renseigne également sur les algorithme de similarité pour les textes, et tente d'en mettre quelques un en place en python.
 
 
+### Semaine du 27 au 01
+Poru l'ocr de ticket de caisse, je remarque que l'exploitation des resultat de l'api google vision seras ardu, le regroupement en bloc de texte n'est pas constant et gêne les analyse se basant sur le sens de lecture. j'ai essayé et cela n'as conclu sur rien de probant. Pour la partie d'association de transaction bancaire, j'ai du mal a voir ce que je dois prioriser entre la reconnaissance de nom, de date et de montant. J'attend de recevoir des données concrêtes pour essayer et ajuster le début d'algorithme que j'ai fait.
